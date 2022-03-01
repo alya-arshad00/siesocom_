@@ -1,6 +1,6 @@
 
 
-|RELEASE TITLE/VERSION|	Mote Application Release v4.5|
+|RELEASE TITLE/VERSION|	Mote Application Release v4.5|abc
 |---|---|
 |RELEASE DATE|	13-Dec-2021|
 |RELEASE STATUS|	Frozen|
