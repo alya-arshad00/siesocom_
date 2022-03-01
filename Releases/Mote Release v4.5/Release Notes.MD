@@ -10,7 +10,7 @@
 RELEASE ENVIRONMENT
 -------------------
 1.	The Mote is running on OS version “https://m3-shared-storage.s3.eu-west-1.amazonaws.com/mote/os/rpi/managed_mote_rpios_16a.zip”.
-2.	The Mote is using “Actuated Ball Valve V2” model with FW “Linux 2.1”.
+2.	The Mote is using “Actuated Ball Valve V2” model with FW “Linux 2.1”. nnnnnn
 3.	The Mote is tested against Sematic IPC FW v 1.3.8150-dev.
 4.	The Mote is tested against Broker container image “Managed-MQTT-Broker 1.3”.
 5.	The Mote Supports Model “M3 Generic Peripheral V2” Model with firmware “M3 Generic Mote FW 1.4 MQTT/Ethernet”.
